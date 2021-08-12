@@ -45,7 +45,7 @@ def get_filters():
 
     valid_day = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'all']
 
-    day_choice = input('Which day of the week would you like to look at?/ Choose "all" for no filter \n')
+    day_choice = input('Which day of the week would you like to see the data for?/ Choose "all" for no filter \n')
 
     if day_choice.lower() not in valid_day:
         while day_choice.lower() not in valid_day:
