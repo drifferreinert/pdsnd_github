@@ -9,7 +9,8 @@ This project was created on August 12, 2021
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+In this project, a user can see the bikeshare data for New York City, Chicago, and/or Washington. They can explore the data to see the demographics of the people who use the bikeshere system and see which stations are used the most and what time of day is the most common time people use the bikeshare in each city. 
+People can use a filter for a specific day of the week or month of the year between January and June. 
 
 ### Files used
 Include the files used
