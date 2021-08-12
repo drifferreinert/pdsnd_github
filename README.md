@@ -13,7 +13,11 @@ In this project, a user can see the bikeshare data for New York City, Chicago, a
 People can use a filter for a specific day of the week or month of the year between January and June. 
 
 ### Files used
-Include the files used
+Files used:
+chicago.csv - Chicago data files
+new_york_city.csv - New York City data files
+washington.csv - Washington data files
+
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
