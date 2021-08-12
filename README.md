@@ -20,5 +20,8 @@ washington.csv - Washington data files
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Sources used to consult:
+
+https://docs.python.org/3/library/datetime.html
+https://www.reddit.com/r/learnpython/comments/7s99rk/pandas_sort_by_most_frequent_value_combinations/
 
