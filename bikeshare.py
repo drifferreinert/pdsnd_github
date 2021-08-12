@@ -260,7 +260,7 @@ def row_data(df):
                 view_data = input('Your input is invalid. Please enter either "Yes" or "No"')
 
     if view_data == 'no':
-        print("Done!")
+        print("Done! Thank you")
 
 
 def main():
